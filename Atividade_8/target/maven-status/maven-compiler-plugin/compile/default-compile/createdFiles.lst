@@ -1,0 +1,9 @@
+mensageria\comum\Mensagem.class
+mensageria\cliente\Cliente.class
+mensageria\no\TratadorDeConexao.class
+mensageria\comum\Mural.class
+mensageria\no\No.class
+mensageria\no\TratadorDeConexao$1.class
+mensageria\comum\Pacote.class
+mensageria\comum\Pacote$Tipo.class
+mensageria\Simulador.class
